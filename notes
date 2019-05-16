@@ -1,0 +1,45 @@
+The fastest way to build mobile and web apps that scale
+--------------
+AWS?
+Amazon Web Services 
+Free to signup 
+Reliable, scalable, and inexpensive cloud computing services
+ Free to join, pay only for what you use
+Always Free/Free 12 months/Trail
+ EC2 – Virtual Machine, RDS, Device Farm, 
+Site : aws.amazon.com
+----------------
+AWS- AMPLIFY
+AWS Amplify is a JavaScript library for frontend and mobile developers building cloud-enabled applications.
+The fastest way to build mobile and web apps that scale
+Easy to create, configure, and implement scalable mobile and web apps powered by AWS
+Support iOS, Android, Web, and React Native frontends
+AWS Amplify consists of a development framework and developer services
+Automates the application release process of both your frontend and backend allowing you to deliver features faster
+
+-----------------
+cOMPONENTS
+open source Amplify Framework
+ Cloud Services (AWS AppSync,Amazon Cognito,..)
+command line interface (CLI) to build an
+ app backend and integrate it with your app
+ AWS Device Farm Developer Tools
+
+------------------
+Amplify CLI
+Create Cloud services
+Update & delete cloud services
+GraphQL Transform
+GraphpQL CodeGen
+----------------------
+Problems
+Limited Control - owned, managed and monitored by the service provider
+Costs Savings
+Multiple developer working on a same project 
+
+Best practices to reduce costs:
+Scale DOWN as well as UP
+Pre-pay if you have a known minimum usage
+Stop your instances when they are not being used
+Create alerts to track cloud spending
+
